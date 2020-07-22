@@ -1,0 +1,23 @@
+{
+  "name": "test-renovate-6811",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "Testing https://github.com/renovatebot/renovate/issues/6811",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominykas/test-renovate-6811.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominykas/test-renovate-6811/issues"
+  },
+  "homepage": "https://github.com/dominykas/test-renovate-6811#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
